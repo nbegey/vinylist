@@ -1,10 +1,10 @@
-package com.theneversleepingwinds.vinylist.presentation.activity;
+package com.theneversleepingwinds.vinylist.presentation.List;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.theneversleepingwinds.vinylist.R;
-import com.theneversleepingwinds.vinylist.presentation.fragment.ListFragment;
+import com.theneversleepingwinds.vinylist.presentation.List.ListFragment;
 
 public class ListActivity extends AppCompatActivity{
 
